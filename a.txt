@@ -4,3 +4,4 @@ b edit line3
 a edit line 2!
 rebase1
 ok too
+rebase2
